@@ -36,6 +36,7 @@ class AppState extends State<App> {
         ),
         appBar: AppBar(
           title: const Text('AppBar Demo'),
+          backgroundColor: Colors.blue,
         ),
       ),
       //home: Text('Hi there!'),

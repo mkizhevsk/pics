@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\lib",
-    "\\lib\\src"
+    "\\lib\\src",
+    "\\lib\\src\\widgets"
   ],
-  "SelectedNode": "\\lib\\src\\app.dart",
   "PreviewInSolutionExplorer": false
 }
